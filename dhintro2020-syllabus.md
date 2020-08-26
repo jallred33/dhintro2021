@@ -1,27 +1,40 @@
 Introduction to Digital Humanities
 ----------------------------------
 
-DHUM 70000\
-Fall 2020\
-[MA Program in Digital Humanities](http://www.gc.cuny.edu/dh)\
-CUNY Graduate Center\
+DHUM 70000
+
+Fall 2020
+
+[MA Program in Digital Humanities](http://www.gc.cuny.edu/dh)
+
+CUNY Graduate Center
+
 Wednesdays 4:15pm--6:15pm - Online via Zoom
 
 **Faculty**
 
-**Dr. Matthew K. Gold**\
-mgold\@gc.cuny.edu\
-http://mkgold.net\
+**Dr. Matthew K. Gold**
+
+mgold\@gc.cuny.edu
+
+http://mkgold.net
+
 \@mkgold
 
-Course Blog: http://cuny.is/dhintro2020\
-Course Group: http://cuny.is/dhintro2020-group\
-Course Hashtag: \#dhintro2020\
-Email the class: dhintro2020@groups.commons.gc.cuny.edu\
+Course Blog: http://cuny.is/dhintro2020
+
+Course Group: http://cuny.is/dhintro2020group
+
+Course Hashtag: \#dhintro2020
+
+Email the class: dhintro2020@groups.commons.gc.cuny.edu
 
 
-**Advisory Fellows:**\
-Micki Kaufman (MA in DH);\
+
+**Advisory Fellows:**
+
+Micki Kaufman (MA in DH);
+
 Javier Otero-Peña (MS in Data Analysis/Vis)
 
 ### Course Overview
@@ -52,7 +65,8 @@ Note: this course is part of an innovative "Digital Praxis Seminar," a two-semes
 
 Students in the course should complete the following work during the semester:
 
-**Reading and Discussion (Weekly)**\
+**Reading and Discussion (Weekly)**
+
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
 **Blogging (5 posts)**
@@ -113,6 +127,9 @@ Regular participation in discussions across the range of our face-to-face and on
 -   Participation and online assignments (40%)
 
 -   Final project (60%)
+
+**Accessibility**
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential.
 
 **Accounts**
 

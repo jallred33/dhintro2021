@@ -215,7 +215,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * online DH syllabi (selections)																								
 
-* #SXCD2018 - Session 3: Digital Caribbean Pedagogies																								
+* SXCD2018 - Session 3: Digital Caribbean Pedagogies																								
 
 																												
 ## 11/11 - TBD

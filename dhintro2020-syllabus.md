@@ -129,7 +129,9 @@ Regular participation in discussions across the range of our face-to-face and on
 -   Final project (60%)
 
 **Accessibility**
-It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential.
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. 
+
+While offices are operating remotely, email Clare Wilson at cwilson1@gc.cuny.edu or visit the SDS website, http://cuny.is/disabilityservices .
 
 **Accounts**
 

@@ -88,7 +88,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 *Readings*
 
-* Jennifer Guiliano and Carolyn Heitman, "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/2019/08/difficult-heritage-and-the-complexities-of-indigenous-data/)"																									
+* Jennifer Guiliano and Carolyn Heitman, "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/article/11041)"																									
 
 * Lev Manovich, "[What is Visualization?](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf)" 																									
 

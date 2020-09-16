@@ -59,6 +59,10 @@ Introductions to each other, to the course syllabus, site, and group
 * [Humanities Commons](http://hcommons.org)
 * [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/)
 * [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu)
+* [CUNY Digital Humanities Initiative](https://commons.gc.cuny.edu/groups/cunydhi/)
+* [NYCDH](https://nycdh.org/)
+* [GO:DH](http://www.globaloutlookdh.org/)
+* [CUNY Digital Humanities Resource Guide](https://wiki.commons.gc.cuny.edu/The_CUNY_Digital_Humanities_Resource_Guide/)
 
 
 																												
@@ -103,7 +107,10 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [A Tale of Two Plantations](http://twoplantations.com/) 																								
 
-* [Around DH in 80 days](https://arounddh.org)																								
+* [The Shape of History](http://shapeofhistory.net/)
+
+* [Around DH in 80 days](https://arounddh.org)
+																		
 
 * [Data is beautiful: 10 of the best data visualization examples from history to today](https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples)																								
 																												

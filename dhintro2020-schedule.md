@@ -63,6 +63,7 @@ Introductions to each other, to the course syllabus, site, and group
 * [NYCDH](https://nycdh.org/)
 * [GO:DH](http://www.globaloutlookdh.org/)
 * [CUNY Digital Humanities Resource Guide](https://wiki.commons.gc.cuny.edu/The_CUNY_Digital_Humanities_Resource_Guide/)
+* [DH Slack](http://tinyurl.com/DHslack)
 
 
 																												

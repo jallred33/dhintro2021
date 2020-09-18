@@ -90,15 +90,15 @@ Students should complete all weekly readings in advance of the class meeting and
 
 **Praxis Assignments (2 Assignments)**
 
-During the semester, we will ask you to complete two praxis assignments. These exercises are meant to be beginner-level; our interest in having you complete them lies in getting you to experiment with new tools. Your results do not have to be necessarily significant or meaningful; the important thing is to engage the activity and gain a better understanding of the kinds of choices one must make when undertaking such a project. We ask you to think, too, about both the strengths and the limitations of the tools you are trying out.
+During the semester, I will ask you to complete two praxis assignments. These exercises are meant to be beginner-level; our interest in having you complete them lies in getting you to experiment with new tools. Your results do not have to be necessarily significant or meaningful; the important thing is to engage the activity and gain a better understanding of the kinds of choices one must make when undertaking such a project. I ask you to think, too, about both the strengths and the limitations of the tools you are trying out.
 
 Assignment options:
 
-1.  Mapping Assignment (Due Date TBA -- required of all students)\
+1.  Mapping Assignment (Due Date: 10/1 -- required of all students)
     
 Praxis Assignment -- Mapping
 
-Create a map using one of the tools described in “Finding the Right Tools for Mapping.” You can create any map you’d like; we just want you to try to use one of these pieces of mapping software. Should you feel so inspired, we invite you to explore one of the following options:
+Create a map using one of the tools described in “Finding the Right Tools for Mapping.” You can create any map you’d like; I just want you to try to use one of these pieces of mapping software. Should you feel so inspired, I invite you to explore one of the following options:
 
 * Create a map that in some way attempts to work against the constraints of maps (generally) or the particular mapping software you are using.
 * Create a map of something that is not necessarily (or traditionally thought of as) mappable.
@@ -110,13 +110,23 @@ Please create a blog post describing your experiences.
 
 Choose either:
 
-2.  Visualization Assignment (Due Date TBA)\
-Description forthcoming
+2.  Visualization Assignment (Due Date 10/7)
+
+Create a data visualization using one of the tools described in "[Digital Humanities Tools: Data Visualization Tools](https://libguides.library.arizona.edu/dighumantools/dataviz)" (I suggest starting with [Tableau Public](https://public.tableau.com/en-us/s/) or [Palladio](http://hdlab.stanford.edu/palladio/), especially if you are new to data vis). As with the mapping praxis assignment, you may create any type of visualization you’d like; I just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, please avoid a geospatial visualization.
+
+Please create a blog post describing your experience(s) creating the data visualization and connect your experience(s) with one or two readings from class thus far, particularly from the “Data and Visualization” week.
 
 or    
 
-3.  Text Analysis Assignment (Due Date TBA)\
-Description forthcoming
+3.  Text Analysis Assignment (Due Date 10/28)\
+
+First, read [this overview of text-mining](http://fredgibbs.net/courses/etc/getting-started-with-text-mining). Second, choose a text or set of texts to explore with [Voyant](https://voyant-tools.org/) (easiest), [Google N-Gram](https://books.google.com/ngrams), [J-Stor Text Analyzer](https://www.jstor.org/analyze/), Bookworm, MALLET, or another text-mining tool. Third, explore! Fourth, blog about your experiences.
+
+Resources (tool overviews and/or project examples):
+
+https://libguides.wpi.edu/digital_scholarship/text_analysis (note — some links lead to WPI-restricted resources, but you can find open version of most resources named by googling the tool names)
+
+http://dh.matrix.msu.edu/research/text-mining/
 
 **Final Projects:** Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
 

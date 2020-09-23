@@ -110,7 +110,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [The Shape of History](http://shapeofhistory.net/)
 
-* [Around DH in 80 days](https://arounddh.org)
+* [Around DH in 80 days](http://arounddh.elotroalex.com/journey/)
 																		
 
 * [Data is beautiful: 10 of the best data visualization examples from history to today](https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples)																								

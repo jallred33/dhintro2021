@@ -144,6 +144,10 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Mukurtu](https://mukurtu.org/)
 
+* [TK Knowledge Labels](https://localcontexts.org/tk-labels/)
+
+* [Dublin Core - Wikipedia Entry](https://en.wikipedia.org/wiki/Dublin_Core)
+
 * [CUNY Distance Learning Archive](https://cdla.commons.gc.cuny.edu/)																				
 
 **Assignment: PRAXIS Mapping assignment due**		

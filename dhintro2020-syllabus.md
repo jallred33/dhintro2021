@@ -69,15 +69,17 @@ Students in the course should complete the following work during the semester:
 
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
-**Blogging (5 posts)**
+**Blogging (7 posts)**
 
--   Students are responsible for writing five blog posts on our shared course blog. If possible, please post your writing by the end of day on Monday so that others have time to read your work before class.
+-   Students are responsible for writing seven blog posts on our shared course blog. If possible, please post your writing by the end of day on Monday so that others have time to read your work before class.
+
+	-	one post during the second week of the class; 
 
     -   two short responses to our weekly readings or in-class discussions. Post your thoughts, reactions, questions, responses;
 
     -   one post about a workshop you have attended, with the goal of helping other students understand what they may have missed and/or what you found valuable about it;
 
-    -   one post about a praxis assignment;
+    -   two posts about your praxis assignments;
 
     -   one post about your final project.
 

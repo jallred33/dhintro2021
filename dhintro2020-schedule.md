@@ -62,7 +62,7 @@ Introductions to each other, to the course syllabus, site, and group
 * [CUNY Digital Humanities Initiative](https://commons.gc.cuny.edu/groups/cunydhi/)
 * [NYCDH](https://nycdh.org/)
 * [GO:DH](http://www.globaloutlookdh.org/)
-* [CUNY Digital Humanities Resource Guide](https://wiki.commons.gc.cuny.edu/The_CUNY_Digital_Humanities_Resource_Guide/)
+* [CUNY Digital Humanities Resource Guide](https://wiki.commons.gc.cuny.edu/The**CUNY**Digital**Humanities**Resource**Guide/)
 * [DH Slack](http://tinyurl.com/DHslack)
 
 
@@ -95,7 +95,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Jennifer Guiliano and Carolyn Heitman, "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/article/11041)"																									
 
-* Lev Manovich, "[What is Visualization?](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf)" 																									
+* Lev Manovich, "[What is Visualization?](http://manovich.net/content/04-projects/064-what-is-visualization/61**article**2010.pdf)" 																									
 
 * Tressie McMillan Cottom, "[More Scale, More Questions: Observations from Sociology](https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47)"																									
 
@@ -119,15 +119,15 @@ Introductions to each other, to the course syllabus, site, and group
 
 *Readings*
 
-* Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” _Social Text__ 36 (4): 57–79. (PDF)
+* Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” **Social Text**** 36 (4): 57–79. (PDF)
 
-* Blevins, Cameron. 2016. ""[Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)."" In _Debates in the Digital Humanities 2016__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
+* Blevins, Cameron. 2016. ""[Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)."" In **Debates in the Digital Humanities 2016****, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
 
-* Daut, Marlene L. 2019. ""[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." _Sx Archipelagos__, no. 3 (July).
+* Daut, Marlene L. 2019. ""[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." **Sx Archipelagos****, no. 3 (July).
 
-* Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf).” Center for Media and Social Impact. February 29, 2016.
+* Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond**the**hashtags**2016.pdf).” Center for Media and Social Impact. February 29, 2016.
 
-* Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc_pubs/205/)” _Radical History Review__ 2011 (111): 101–9.																							
+* Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc**pubs/205/)” **Radical History Review**** 2011 (111): 101–9.																							
 																									
 
 *Site to Explore*
@@ -146,7 +146,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [TK Knowledge Labels](https://localcontexts.org/tk-labels/)
 
-* [Dublin Core - Wikipedia Entry](https://en.wikipedia.org/wiki/Dublin_Core)
+* [Dublin Core - Wikipedia Entry](https://en.wikipedia.org/wiki/Dublin**Core)
 
 * [CUNY Distance Learning Archive](https://cdla.commons.gc.cuny.edu/)																				
 
@@ -157,17 +157,17 @@ Introductions to each other, to the course syllabus, site, and group
 
 *Readings*		
 
-* Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In _Debates in the Digital Humanities 2019__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
+* Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In **Debates in the Digital Humanities 2019****, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
 
-* Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” _American Behavioral Scientist__, November. (PDF)
+* Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” **American Behavioral Scientist****, November. (PDF)
 
-* Posner, Miriam. 2018. “[See No Evil?](https://logicmag.io/scale/see-no-evil/).” _Logic Magazine__, no. 4 (April).
+* Posner, Miriam. 2018. “[See No Evil?](https://logicmag.io/scale/see-no-evil/).” **Logic Magazine****, no. 4 (April).
 
-* Jackson, Steven J. 2014. “[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf).” In _Media Technologies: Essays on Communication, Materiality, and Society_, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press.
+* Jackson, Steven J. 2014. “[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf).” In **Media Technologies: Essays on Communication, Materiality, and Society**, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press.
 
-* Gil, Alex. 2016. “[Interview with Ernesto Oroza](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb#ch16).” In _Debates in the Digital Humanities 2016_, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
+* Gil, Alex. 2016. “[Interview with Ernesto Oroza](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb#ch16).” In **Debates in the Digital Humanities 2016**, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
 
-* Greenspan, Brian. 2019. “[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09).” In _Debates in the Digital Humanities 2019__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
+* Greenspan, Brian. 2019. “[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09).” In **Debates in the Digital Humanities 2019****, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
 																							
 *Site to Explore*
 

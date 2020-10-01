@@ -250,7 +250,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ## 11/25 - No class (Friday Schedule) 
 
-### Assignment: FINAL PROPOSALS DUE**																										
+### Assignment: FINAL PROPOSALS DUE																										
 																												
 ## 12/2 - Student Presentations	
 

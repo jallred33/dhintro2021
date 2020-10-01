@@ -161,7 +161,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” *American Behavioral Scientist*, November. (PDF)
 
-* Posner, Miriam. 2018. “[See No Evil?](https://logicmag.io/scale/see-no-evil/).” *Logic Magazine*, no. 4 (April).
+* Posner, Miriam. 2018. “[See No Evil](https://logicmag.io/scale/see-no-evil/).” *Logic Magazine*, no. 4 (April).
 
 * Jackson, Steven J. 2014. “[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf).” In *Media Technologies: Essays on Communication, Materiality, and Society*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press.
 

@@ -238,7 +238,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) - explore 4-5 keywords																					
 
-*Multimedia to explore:*																									
+### Multimedia to explore:																									
 
 * online DH syllabi (selections)																								
 

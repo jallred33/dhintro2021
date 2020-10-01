@@ -8,7 +8,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 9/2 - Approaching the Digital Humanities
 
-*Readings*
+### Readings
 
 * Matthew K. Gold, "[The Digital Humanities Moment](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6#intro)" - Debates in the Digital Humanities (2012)
 
@@ -20,7 +20,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Spiro, Lisa. ["'This Is Why We Fight': Defining the Values of the Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/13)
 
-*Sites to explore*
+### Sites to explore
 
 * [Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/)
 
@@ -31,7 +31,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Browse [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/)
 																
 
-**Assignment -- blog post:**
+### Assignment -- blog post:
 
 * To what extent do these sites/projects reflect issues discussed in our readings?								
 
@@ -40,7 +40,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 9/9 - Epistemologies of DH
 
-*Readings*
+### Readings
 
 * Ramsay, Stephen, and Geoffrey Rockwell. "[Developing Things: Notes toward an Epistemology of Building in the Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c733786e-5787-454e-8f12-e1b7a85cac72#ch05)" Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012.
 
@@ -53,7 +53,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Presner, Todd. Critical Theory and the Mangle of Digital Humanities,” in The Humanities and the Digital, eds. David Theo Goldberg and Patrik Svensson. Cambridge: MIT Press, 2014. (PDF)
 
 
-*Sites to explore*
+### Sites to explore
 * [Association for Computers and the Humanties](http://ach.org)
 * [Alliance of Digital Humanities Organizations](http://adho.org)
 * [Humanities Commons](http://hcommons.org)
@@ -69,7 +69,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 9/16 - Mapping
 
-*Readings*
+### Readings
 
 * Mark S. Monmonier, How to Lie with Maps (PDF)																									
 
@@ -91,7 +91,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 9/23 - Data and Visualization
 
-*Readings*
+### Readings
 
 * Jennifer Guiliano and Carolyn Heitman, "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/article/11041)"																									
 
@@ -104,7 +104,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Johanna Drucker, "[Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html)" 																									
 
 
-*Sites to Explore*
+### Sites to explore
 
 * [A Tale of Two Plantations](http://twoplantations.com/) 																								
 
@@ -117,7 +117,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 9/30 - History and the Archive 
 
-*Readings*
+### Readings
 
 * Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text* 36 (4): 57–79. (PDF)
 
@@ -130,7 +130,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
 																									
 
-*Sites to Explore*
+### Sites to explore
 
 * [Digital Aponte](http://aponte.hosting.nyu.edu/) 	
 
@@ -150,12 +150,12 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [CUNY Distance Learning Archive](https://cdla.commons.gc.cuny.edu/)																				
 
-**Assignment: PRAXIS Mapping assignment due**		
+### Assignment: PRAXIS Mapping assignment due		
 
 																											
 ## 10/7 - Design / infrastructure
 
-*Readings*		
+### Readings		
 
 * Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. *Debates in the Digital Humanities*. University of Minnesota Press.
 
@@ -169,7 +169,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Greenspan, Brian. 2019. “[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09).” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. *Debates in the Digital Humanities*. University of Minnesota Press.
 																							
-*Sites to Explore*
+### Sites to explore
 
 
 * [All That is Solid Melts into Data](https://spheres-journal.org/contribution/all-that-is-solid-melts-into-data/)
@@ -183,12 +183,12 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 10/14 - No class (Monday schedule)
 
-**Assignment: PRAXIS Visualization assignment due**		
+### Assignment: PRAXIS Visualization assignment due		
 
 
 ## 10/21 - Open Access / Minimal Computing
 
-*Readings*
+### Readings
 
 * Kathleen Fitzpatrick, Generous Thinking (PDF)																																																		
 
@@ -197,7 +197,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Alex Gil, "[Design for Diversity: The Case of Ed](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)" 																									
 
 
-*Sites to Explore*
+### Sites to explore
 
 * [DHdebates site](http://dhdebates.gc.cuny.edu)
 
@@ -210,7 +210,7 @@ Introductions to each other, to the course syllabus, site, and group
 																												
 ## 10/28 - Text
 
-*Readings*
+### Readings
 
 * Underwood, Ted. "[A Genealogy of Distant Reading](http://digitalhumanities.org/dhq/vol/11/2/000317/000317.html)" Digital Humanities Quarterly, vol. 11, no. 2, 2017.																									
 
@@ -222,11 +222,11 @@ Introductions to each other, to the course syllabus, site, and group
 
 * So, Richard Jean. "All Models are Wrong." PMLA, vol. 132, no. 3, May 2017, pp. 668-673. (PDF)																									
 
-**Assignment: PRAXIS text mining assignment due**	
+### Assignment: PRAXIS text mining assignment due	
 																												
 ## 11/4 - Pedagogy
 
-*Readings*
+### Readings
 
 * Ryan Cordell, "[How Not to Teach Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36)"																									
 
@@ -250,7 +250,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ## 11/25 - No class (Friday Schedule) 
 
-**Assignment: FINAL PROPOSALS DUE**																										
+### Assignment: FINAL PROPOSALS DUE**																										
 																												
 ## 12/2 - Student Presentations	
 

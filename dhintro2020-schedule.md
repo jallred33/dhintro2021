@@ -169,7 +169,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Greenspan, Brian. 2019. “[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09).” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. *Debates in the Digital Humanities*. University of Minnesota Press.
 																							
-*Site to Explore*
+*Sites to Explore*
 
 
 * [All That is Solid Melts into Data](https://spheres-journal.org/contribution/all-that-is-solid-melts-into-data/)

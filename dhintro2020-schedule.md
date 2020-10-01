@@ -130,7 +130,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
 																									
 
-*Site to Explore*
+*Sitea to Explore*
 
 * [Digital Aponte](http://aponte.hosting.nyu.edu/) 	
 

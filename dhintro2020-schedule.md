@@ -157,7 +157,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 *Readings*		
 
-* Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In **Debates in the Digital Humanities 2019****, edited by Matthew K. Gold and Lauren F. Klein. *Debates in the Digital Humanities*. University of Minnesota Press.
+* Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. *Debates in the Digital Humanities*. University of Minnesota Press.
 
 * Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” *American Behavioral Scientist*, November. (PDF)
 

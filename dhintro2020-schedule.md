@@ -119,15 +119,15 @@ Introductions to each other, to the course syllabus, site, and group
 
 *Readings*
 
-* Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads" (PDF)
+* Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” _Social Text__ 36 (4): 57–79. (PDF)
 
-* Cameron Blevins, ["Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)
+* Blevins, Cameron. 2016. ""[Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)."" In _Debates in the Digital Humanities 2016__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
 
-* Marlene L. Daut, "[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)"
+* Daut, Marlene L. 2019. ""[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." _Sx Archipelagos__, no. 3 (July).
 
-* [Beyond the Hashtags](https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
+* Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf).” Center for Media and Social Impact. February 29, 2016.
 
-* Steve Brier and Joshua Brown, ["The September 11 Digital Archive"](https://academicworks.cuny.edu/gc_pubs/205/)																								
+* Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc_pubs/205/)” _Radical History Review__ 2011 (111): 101–9.																							
 																									
 
 *Site to Explore*
@@ -155,23 +155,36 @@ Introductions to each other, to the course syllabus, site, and group
 																											
 ## 10/7 - Design / infrastructure
 
-*Readings*																									
+*Readings*		
 
-* Bethany Nowiskie, "[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37)"																									
+* Nowiskie, Bethany. 2019. “[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37).” In _Debates in the Digital Humanities 2019__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
 
-* Susan Leigh Star, “The Ethnography of Infrastructure”	(PDF)																								
+* Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” _American Behavioral Scientist__, November. (PDF)
 
-* Miriam Posner, "[See No Evil?](https://logicmag.io/scale/see-no-evil/)"																									
+* Posner, Miriam. 2018. “[See No Evil?](https://logicmag.io/scale/see-no-evil/).” _Logic Magazine__, no. 4 (April).
 
-* Stephen Jackson, "[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)"																									
+* Jackson, Steven J. 2014. “[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf).” In _Media Technologies: Essays on Communication, Materiality, and Society_, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press.
 
-* Alex Gil "[Interview with Ernesto Oroza](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb#ch16)"	
+* Gil, Alex. 2016. “[Interview with Ernesto Oroza](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb#ch16).” In _Debates in the Digital Humanities 2016_, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 2. University of Minnesota Press.
 
-* Greenspan, Brian. "[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09)." *Debates in the Digital Humanities 2019*, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press, 2019.																								
+* Greenspan, Brian. 2019. “[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09).” In _Debates in the Digital Humanities 2019__, edited by Matthew K. Gold and Lauren F. Klein. Debates in the Digital Humanities 5. University of Minnesota Press.
+																							
+*Site to Explore*
 
-**Assignment: PRAXIS Visualization assignment due**																										
+
+* [All That is Solid Melts into Data](https://spheres-journal.org/contribution/all-that-is-solid-melts-into-data/)
+
+* [Critical Infrastructure Studies](https://cistudies.org/)
+
+* [The Maintainers](https://themaintainers.org/)
+
+* [Surfacing](http://www.surfacing.in/)
+																								
 																												
 ## 10/14 - No class (Monday schedule)
+
+**Assignment: PRAXIS Visualization assignment due**		
+
 
 ## 10/21 - Open Access / Minimal Computing
 
@@ -182,7 +195,6 @@ Introductions to each other, to the course syllabus, site, and group
 * Johanna Drucker, "[Pixel Dust: Illusions of Innovation in Scholarly Publishing](https://lareviewofbooks.org/article/pixel-dust-illusions-innovation-scholarly-publishing/)"																									
 
 * Alex Gil, "[Design for Diversity: The Case of Ed](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)" 																									
-
 
 
 *Sites to Explore*
@@ -209,7 +221,6 @@ Introductions to each other, to the course syllabus, site, and group
 * Witmore, Michael. "[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)" Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012.																									
 
 * So, Richard Jean. "All Models are Wrong." PMLA, vol. 132, no. 3, May 2017, pp. 668-673. (PDF)																									
-
 
 **Assignment: PRAXIS text mining assignment due**	
 																												

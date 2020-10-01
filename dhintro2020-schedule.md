@@ -64,6 +64,7 @@ Introductions to each other, to the course syllabus, site, and group
 * [GO:DH](http://www.globaloutlookdh.org/)
 * [CUNY Digital Humanities Resource Guide](https://wiki.commons.gc.cuny.edu/The**CUNY**Digital**Humanities**Resource**Guide/)
 * [DH Slack](http://tinyurl.com/DHslack)
+* [ACH Guide: Toward Anti-Racist Technical Terminology](https://ach.org/toward-anti-racist-technical-terminology/)
 
 
 																												

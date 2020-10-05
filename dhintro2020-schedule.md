@@ -12,7 +12,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Gold, Matthew K. 2012. [The Digital Humanities Moment](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6#intro) In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press.
 
-Klein, Lauren F., and Matthew K. Gold. 2016. "[Digital Humanities: The Expanded Field](https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f#intro)" In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
+* Klein, Lauren F., and Matthew K. Gold. 2016. "[Digital Humanities: The Expanded Field](https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f#intro)" In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
 * Gold, Matthew K., and Lauren F. Klein. 2019. "[A DH That Matters](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
@@ -127,7 +127,7 @@ Klein, Lauren F., and Matthew K. Gold. 2016. "[Digital Humanities: The Expanded 
 
 * Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond**the**hashtags**2016.pdf).” Center for Media and Social Impact. February 29, 2016.
 
-* Brier, Stephen, and Joshua Brown. 2011. “["The September 11 Digital Archive: Saving the Histories of September 11, 2001."](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
+* Brier, Stephen, and Joshua Brown. 2011. “[The September 11 Digital Archive: Saving the Histories of September 11, 2001.](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
 																									
 
 ### Sites to explore
@@ -193,7 +193,7 @@ Klein, Lauren F., and Matthew K. Gold. 2016. "[Digital Humanities: The Expanded 
 
 * Drucker, Johanna. 2014. "[Pixel Dust: Illusions of Innovation in Scholarly Publishing](https://lareviewofbooks.org/article/pixel-dust-illusions-innovation-scholarly-publishing/)" *Los Angeles Review of Books*, January 16, 2014.
 
-* Gil, Alex. 2019. “Design for Diversity: The Case of Ed.” *The Design for Diversity Learning Toolkit**. June 20, 2019.																								
+* Gil, Alex. 2019. “Design for Diversity: The Case of Ed.” *The Design for Diversity Learning Toolkit*. June 20, 2019.																								
 
 ### Sites to explore
 

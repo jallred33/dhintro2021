@@ -191,9 +191,11 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Fitzpatrick, Kathleen. 2021. *Generous Thinking: A Radical Approach to Saving the University*. Johns Hopkins University Press. (PDF)																																																	
 
+* Suber, Peter. "[What Is Open Access?](https://doi.org/https://doi.org/10.7551/mitpress/9286.001.0001)" In *Open Access* (1st ed.). 
+
 * Drucker, Johanna. 2014. "[Pixel Dust: Illusions of Innovation in Scholarly Publishing](https://lareviewofbooks.org/article/pixel-dust-illusions-innovation-scholarly-publishing/)" *Los Angeles Review of Books*, January 16, 2014.
 
-* Gil, Alex. 2019. “Design for Diversity: The Case of Ed.” *The Design for Diversity Learning Toolkit*. June 20, 2019.																								
+* Gil, Alex. 2019. “[Design for Diversity: The Case of Ed](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/).” *The Design for Diversity Learning Toolkit*. June 20, 2019.																								
 
 ### Sites to explore
 

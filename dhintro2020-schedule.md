@@ -191,7 +191,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Fitzpatrick, Kathleen. 2021. *Generous Thinking: A Radical Approach to Saving the University*. Johns Hopkins University Press. (PDF)																																																	
 
-* Suber, Peter. "[What Is Open Access?](https://doi.org/https://doi.org/10.7551/mitpress/9286.001.0001)" In *Open Access* (1st ed.). 
+* Suber, Peter. 2012. "[What Is Open Access?](https://doi.org/https://doi.org/10.7551/mitpress/9286.001.0001)" In *Open Access* (1st ed.). MIT Press.
 
 * Drucker, Johanna. 2014. "[Pixel Dust: Illusions of Innovation in Scholarly Publishing](https://lareviewofbooks.org/article/pixel-dust-illusions-innovation-scholarly-publishing/)" *Los Angeles Review of Books*, January 16, 2014.
 

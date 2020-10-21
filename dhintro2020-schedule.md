@@ -199,6 +199,8 @@ Introductions to each other, to the course syllabus, site, and group
 
 ### Sites to explore
 
+* [Ed](https://github.com/minicomp/ed/)
+
 * [DHdebates site](http://dhdebates.gc.cuny.edu)
 
 * [sx salon/sx archipelagos](http://smallaxe.net/sxarchipelagos/)	
@@ -206,6 +208,10 @@ Introductions to each other, to the course syllabus, site, and group
 * [Open-Access publications on the CUNY Academic Commons](https://commons.gc.cuny.edu/about/publications/)
 
 * Manifold installations: [CUNY](http://cuny.manifoldapp.org) ; [Minnesota](http://manifold.umn.edu)
+
+* [PubPub](https://www.pubpub.org/)
+
+* [Scalar](https://scalar.me/anvc/scalar/)
 																					
 																												
 ## 10/28 - Text

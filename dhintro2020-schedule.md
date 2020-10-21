@@ -220,7 +220,13 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Witmore, Michael. 2012. "[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)" In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press.																																																
 
-* So, Richard Jean. 2017. “All Models Are Wrong.” *PMLA* 132 (3): 668–73. (PDF)																								
+* So, Richard Jean and Edwin Roland. 2020. “Race and Distant Reading.” *PMLA*  135.1: 59–73. (PDF)	
+
+### Sites to explore
+
+* [The Data Sitters Club](https://datasittersclub.github.io/site/dsc1/)
+
+* Amanda Henrichs, [“Allusions in the Age of the Digital: four ways of looking at a corpus"](https://wwp.northeastern.edu/context/#henrichs.allusions.xml)																							
 
 ### Assignment: PRAXIS text mining assignment due	
 																												

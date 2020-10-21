@@ -216,7 +216,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Klein, Lauren F. 2018. “[Distant Reading after Moretti](http://lklein.com/digital-humanities/distant-reading-after-moretti/).” Panel Discussion: Varieties of Digital Humanities presented at the 2018 MLA Annual Convention.																								
 
-* Ramsay, Stephen. 2014. “[The Hermeneutics of Screwing Around; or What You Do with a Million Books](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)” In Pastplay: *Teaching and Learning History with Technology*, edited by Kevin Lee, 111–20. University of Michigan Press.
+* Mandel, Laura. 2019. "[Gender and Cultural Analytics: Finding or Making Stereotypes?](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5d9c1b63-7b60-42dd-8cda-bde837f638f4#ch01)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
 * Witmore, Michael. 2012. "[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)" In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press.																																																
 

@@ -185,7 +185,7 @@ Introductions to each other, to the course syllabus, site, and group
 ### Assignment: PRAXIS Visualization assignment due		
 
 
-## 10/21 - Open Access / Minimal Computing
+## 10/21 - Open Access Publishing / Minimal Computing / Digital Scholarship
 
 ### Readings
 

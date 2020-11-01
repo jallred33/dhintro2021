@@ -235,8 +235,30 @@ Introductions to each other, to the course syllabus, site, and group
 * Amanda Henrichs, [“Allusions in the Age of the Digital: four ways of looking at a corpus"](https://wwp.northeastern.edu/context/#henrichs.allusions.xml)																							
 
 ### Assignment: PRAXIS text mining assignment due	
+
 																												
-## 11/4 - Pedagogy
+## 11/4 - Media, Disinformation, and the 2020 U.S. Presidential Election
+
+* Spies, Samuel. 2020. "[How Misinformation Spreads](https://mediawell.ssrc.org/literature-reviews/how-misinformation-spreads/)." V1.0. Social Science Research Council, MediaWell. July 30, 2020. 
+
+* Donovan, Joan and Brian Friedberg. 2019. "[Source Hacking: Media Manipulation In Practice](https://datasociety.net/library/source-hacking-media-manipulation-in-practice/)." Data & Society. September 4, 2019.
+
+* Tucker, Joshua A., Andrew Guess, Pablo Barberá, Cristian Vaccari, Alexandra Siegel, Sergey Sanovich, Denis Stukal, and Brendan Nyhan. 2018. "[Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature](https://hewlett.org/library/social-media-political-polarization-political-disinformation-review-scientific-literature/)." Hewlitt Foundation. March 19, 2018.
+
+* Ringrose, Jessica. 2018. "[Digital feminist pedagogy and post-truth misogyny]( https://doi.org/10.1080/13562517.2018.1467162)."
+_Teaching in Higher Education__, 23:5, 647-656. 
+
+* Sites to Explore:
+
+* [Data & Society](https://datasociety.net/)
+
+* [AI Now Institute](https://ainowinstitute.org/)
+
+* [SSRC Mediawell](https://mediawell.ssrc.org/)
+  																							
+
+																												
+## 11/11 - Pedagogy
 
 ### Readings
 
@@ -254,10 +276,9 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Online DH syllabi (selections)																								
 
-* SXCD2018 - Session 3: Digital Caribbean Pedagogies																								
+* SXCD2018 - Session 3: Digital Caribbean Pedagogies	
 
-																												
-## 11/11 - TBD
+##11/18 - TBD
 
 
 ## 11/25 - No class (Friday Schedule) 

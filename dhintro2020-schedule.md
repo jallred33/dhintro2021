@@ -248,7 +248,7 @@ Introductions to each other, to the course syllabus, site, and group
 * Ringrose, Jessica. 2018. "[Digital feminist pedagogy and post-truth misogyny]( https://doi.org/10.1080/13562517.2018.1467162)."
 _Teaching in Higher Education__, 23:5, 647-656. 
 
-* Sites to Explore:
+### Sites to Explore:
 
 * [Data & Society](https://datasociety.net/)
 

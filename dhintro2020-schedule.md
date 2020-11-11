@@ -256,7 +256,6 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * [SSRC Mediawell](https://mediawell.ssrc.org/)
   																							
-
 																												
 ## 11/11 - Pedagogy
 
@@ -270,16 +269,17 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * Effinger-Crichlow, Marta. 2019. "[A Pedagogical Search for Home and Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4a11a299-5008-450a-9979-b49727319114#ch40)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.																																															
 
-* [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) - explore 4-5 keywords																					
+* Frost Davis, Rebecca; Gold, Matthew K.; Harris, Kathleen; Sayers, Jentery, Eds. 2020. [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords). Modern Language Association. - explore 4-5 keywords																					
 
 ### Sites to explore:																									
 
-* Online DH syllabi (selections)																								
+* online DH syllabi (browse the [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/search/type/Syllabus), [Humanities Commons](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus), and the [Open Syllabus Project](https://opensyllabus.org/) )																								
 
-* SXCD2018 - Session 3: Digital Caribbean Pedagogies	
+* [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
 
-##11/18 - TBD
+## 11/18 - Grant Writing Workshop
 
+Readings TBA
 
 ## 11/25 - No class (Friday Schedule) 
 

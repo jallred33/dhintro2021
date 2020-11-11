@@ -269,7 +269,7 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * Effinger-Crichlow, Marta. 2019. "[A Pedagogical Search for Home and Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4a11a299-5008-450a-9979-b49727319114#ch40)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.																																															
 
-* Frost Davis, Rebecca; Gold, Matthew K.; Harris, Kathleen; Sayers, Jentery, Eds. 2020. [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords). Modern Language Association. - explore 4-5 keywords																					
+* Frost Davis, Rebecca; Gold, Matthew K.; Harris, Kathleen; Sayers, Jentery, Eds. 2020. [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/). Modern Language Association. - explore 4-5 keywords																					
 
 ### Sites to explore:																									
 

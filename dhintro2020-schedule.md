@@ -279,7 +279,23 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 ## 11/18 - Grant Writing Workshop
 
-Readings TBA
+* Bobley, Brett. 2020. "[Planning your next DHAG: Idea, Audience, Innovation, Context](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2020. 
+
+* Brennan, Sheila. 2018. "[Do your Research! Preparing a Strong Environmental Scan](https://www.neh.gov/blog/do-your-research)." National Endowment for the Humanities. 15 November 2018.
+
+* Brennan, Sheila. 2020. "[Planning your next DHAG: Idea, Audience, Innovation, Context](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2018.
+
+* Alpert-Abrams, Hannah. 2020. "[Planning Your Next DHAG 2: Activities, People, & Costs for Doing the Work](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2018.
+
+* Alpert-Abrams, Hannah. 2020. "[Planning your DH Institute: What and Why](https://www.neh.gov/blog/planning-your-next-dhag-2-activities-people-costs-doing-work)." National Endowment for the Humanities. 13 January 2020. 
+
+* Alpert-Abrams, Hannah. 2020. "[Planning your DH Institute: Who and How](https://www.neh.gov/blog/planning-your-dh-institute-who-and-how)." National Endowment for the Humanities. 13 January 2020. 
+
+* Division of Preservation and Access Staff. "[Tips on Applying for a Preservation & Access Award](https://www.neh.gov/blog/tips-applying-preservation-access-award)." 2020. National Endowment for the Humanities. 14 April 2020.
+
+* [Digital Humanities Research Institute Project Lab](https://github.com/DHRI-Curriculum/project-lab)
+
+* Model student proposals (PDF)
 
 ## 11/25 - No class (Friday Schedule) 
 

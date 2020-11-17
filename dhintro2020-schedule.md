@@ -287,7 +287,7 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * Brennan, Sheila. 2018. "[Do your Research! Preparing a Strong Environmental Scan](https://www.neh.gov/blog/do-your-research)." National Endowment for the Humanities. 15 November 2018.
 
-* Alpert-Abrams, Hannah. 2020. "[Planning your DH Institute: What and Why](https://www.neh.gov/blog/planning-your-next-dhag-2-activities-people-costs-doing-work)." National Endowment for the Humanities. 13 January 2020. 
+* Alpert-Abrams, Hannah. 2020. "[Planning your DH Institute: What and Why](https://www.neh.gov/blog/planning-your-dh-institute-what-and-why)." National Endowment for the Humanities. 13 January 2020. 
 
 * Alpert-Abrams, Hannah. 2020. "[Planning your DH Institute: Who and How](https://www.neh.gov/blog/planning-your-dh-institute-who-and-how)." National Endowment for the Humanities. 13 January 2020. 
 

@@ -1,5 +1,5 @@
 # Course Schedule (subject to change)	
-**Readings marked **(PDF)** can be found in our [course group](https://commons.gc.cuny.edu/groups/introduction-to-digital-humanities-2019/documents/)**			
+**Readings marked **(PDF)** can be found in our [course group](https://commons.gc.cuny.edu/groups/intro-to-dh-2021-dhum-700-02/library/#/)**			
 													
 																												
 ## 8/26 - Introductions
@@ -68,7 +68,9 @@ Introductions to each other, to the course syllabus, site, and group
 
 
 																												
-## 9/16 - Mapping
+## 9/16 - [no class] 																						
+																												
+## 9/23 - Mapping
 
 ### Readings
 
@@ -89,9 +91,13 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Renewing Inequality](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)																								
 
-* [The Decolonial Atlas](https://decolonialatlas.wordpress.com/) 																							
+* [The Decolonial Atlas](https://decolonialatlas.wordpress.com/) 	
+
+
+
+
 																												
-## 9/23 - Data and Visualization
+## 9/30 - Data and Visualization 
 
 ### Readings
 
@@ -114,46 +120,38 @@ Introductions to each other, to the course syllabus, site, and group
 * [Around DH in 80 days](http://arounddh.elotroalex.com/journey/)
 																		
 * [Data is beautiful: 10 of the best data visualization examples from history to today](https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples)																								
-																												
-## 9/30 - History and the Archive 
+
+
+
+																											
+## 10/7 - History and the Archive 
 
 ### Readings
-
-* Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text* 36 (4): 57–79. (PDF)
-
-* Blevins, Cameron. 2016. "[Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)." In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
-
-* Daut, Marlene L. 2019."[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." *Sx Archipelagos*, no. 3 (July).
-
-* Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond**the**hashtags**2016.pdf).” Center for Media and Social Impact. February 29, 2016.
-
-* Brier, Stephen, and Joshua Brown. 2011. “[The September 11 Digital Archive: Saving the Histories of September 11, 2001.](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
-																									
+* Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” Social Text 36 (4): 57–79. (PDF)
+* Blevins, Cameron. 2016. "Digital History’s Perpetual Future Tense"." In Debates in the Digital Humanities 2016, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
+* Daut, Marlene L. 2019."Haiti @ the Digital Crossroads: Archiving Black Sovereignty." Sx Archipelagos, no. 3 (July).
+* Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice.” Center for Media and Social Impact. February 29, 2016.
+* Brier, Stephen, and Joshua Brown. 2011. “The September 11 Digital Archive: Saving the Histories of September 11, 2001.” Radical History Review 2011 (111): 101–9.
 
 ### Sites to explore
 
-* [Digital Aponte](http://aponte.hosting.nyu.edu/) 	
+* Digital Aponte
+* CUNY Digital History Archive
+* Our Marathon
+* Documenting the Now
+* Omeka
+* Mukurtu
+* TK Knowledge Labels
+* Dublin Core - Wikipedia Entry
+* CUNY Distance Learning Archive
 
-* [CUNY Digital History Archive](https://cdha.cuny.edu/) 	
+### Assignment: PRAXIS Mapping assignment due
 
-* [Our Marathon](https://marathon.library.northeastern.edu/)	
 
-* [Documenting the Now](https://www.docnow.io/)	
 
-* [Omeka](https://omeka.org/) 
-
-* [Mukurtu](https://mukurtu.org/)
-
-* [TK Knowledge Labels](https://localcontexts.org/tk-labels/)
-
-* [Dublin Core - Wikipedia Entry](https://en.wikipedia.org/wiki/Dublin**Core)
-
-* [CUNY Distance Learning Archive](https://cdla.commons.gc.cuny.edu/)																				
-
-### Assignment: PRAXIS Mapping assignment due		
-
-																											
-## 10/7 - Design / Infrastructure
+															
+																												
+## 10/14 - Design / Infrastructure
 
 ### Readings		
 
@@ -178,10 +176,7 @@ Introductions to each other, to the course syllabus, site, and group
 * [The Maintainers](https://themaintainers.org/)
 
 * [Surfacing](http://www.surfacing.in/)
-																								
-																												
-## 10/14 - No class (Monday schedule)
-
+									
 ### Assignment: PRAXIS Visualization assignment due		
 
 
@@ -189,7 +184,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ### Readings
 
-* Fitzpatrick, Kathleen. 2021. *Generous Thinking: A Radical Approach to Saving the University*. Johns Hopkins University Press. (PDF)																																																	
+* Fitzpatrick, Kathleen. 2021. *Generous Thinking: A Radical Approach to Saving the University*. Johns Hopkins University Press. (PDF)																																																
 
 * Suber, Peter. 2012. "[What Is Open Access?](https://doi.org/https://doi.org/10.7551/mitpress/9286.001.0001)" In *Open Access* (1st ed.). MIT Press.
 
@@ -237,28 +232,7 @@ Introductions to each other, to the course syllabus, site, and group
 ### Assignment: PRAXIS text mining assignment due	
 
 																												
-## 11/4 - Media, Disinformation, and the 2020 U.S. Presidential Election
-
-* Spies, Samuel. 2020. "[How Misinformation Spreads](https://mediawell.ssrc.org/literature-reviews/how-misinformation-spreads/)." V1.0. Social Science Research Council, MediaWell. July 30, 2020. 
-
-* Donovan, Joan and Brian Friedberg. 2019. "[Source Hacking: Media Manipulation In Practice](https://datasociety.net/library/source-hacking-media-manipulation-in-practice/)." Data & Society. September 4, 2019.
-
-* Tucker, Joshua A., Andrew Guess, Pablo Barberá, Cristian Vaccari, Alexandra Siegel, Sergey Sanovich, Denis Stukal, and Brendan Nyhan. 2018. "[Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature](https://hewlett.org/library/social-media-political-polarization-political-disinformation-review-scientific-literature/)." Hewlitt Foundation. March 19, 2018.
-
-* Ringrose, Jessica. 2018. "[Digital feminist pedagogy and post-truth misogyny]( https://doi.org/10.1080/13562517.2018.1467162)."
-_Teaching in Higher Education__, 23:5, 647-656. 
-
-### Sites to Explore:
-
-* [Data & Society](https://datasociety.net/)
-
-* [AI Now Institute](https://ainowinstitute.org/)
-
-* [SSRC Mediawell](https://mediawell.ssrc.org/)
-  																							
-																												
-## 11/11 - Pedagogy
-
+## 11/4 - Pedagogy
 ### Readings
 
 * Cordell, Ryan. 2016.  "[How Not to Teach Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36)" In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
@@ -276,6 +250,12 @@ _Teaching in Higher Education__, 23:5, 647-656.
 * online DH syllabi (browse the [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/search/type/Syllabus), [Humanities Commons](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus), and the [Open Syllabus Project](https://opensyllabus.org/) )																								
 
 * [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
+
+  																		
+																												
+## 11/11 - Special Topic: People's Choice (students will collaboratively decide TBA)
+
+
 
 ## 11/18 - Grant Writing Workshop
 
@@ -297,8 +277,7 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * Model student proposals (PDF)
 
-## 11/25 - No class (Friday Schedule) 
-
+## 11/25 - No class 
 ### Assignment: FINAL PROPOSALS DUE																										
 																												
 ## 12/2 - Student Presentations	

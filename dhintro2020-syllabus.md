@@ -9,7 +9,7 @@ Thursdays 6:30-8:30pm - Online via Zoom
 Faculty: Dr. Jeff Allred 
 * jeff.allred@hunter.cuny.edu
 * http://cuny.is/jallred
-* @jballred
+* [@jballred](https://twitter.com/jballred)
 
 Course Blog: [https://dh700fa21.commons.gc.cuny.edu](https://dh700fa21.commons.gc.cuny.edu)
 
@@ -29,9 +29,9 @@ Advisory Fellows:
 
 This course aims to provide a landscape view of DH, paying attention to how its various approaches embody new ways of knowing and thinking, new epistemologies. We will ask ourselves fundamental questions about this dynamic, evolving, interdisciplinary field: What is DH? Where and when did it emerge? What are its epistemological foundations, and what methodolgies do its practicioners use? Is DH an emerging academic field, organized around a set of specialized journals, book series, conferences, and centers, or is it something more diffuse and intimately woven into the structure of academic life, especially pedagogy, and public discourse? How does DH speak to urgent questions of cultural difference, of access to "cultural capital," of the ways that identities are constructed and interrogated in our present moment? How does the persistent focus on the "new" in cultural technologies benefit from consideration of the historical development of media forms that often haunt the interfaces and platforms we use today?
 
-The soul of the digital humanities is its distinctive way of linking theory and practice. In that spirit, we will tackle these questions not only with theoretically and historically informed arguments, but also with "praxis" experiments that allow students to explore new methodologies, engage new interfaces and platforms, and ask new questions (or, better, think about old questions in new ways). To put things more plainly, we will make things together: maps, data visualizations, and text analyses. These projects will be, by necessity, playful in spirit and "quick and dirty" rather than slick and ready for public consumption. As such, they will prepare students for future work in DH that often requires us to try new approaches and work collaboratively to pull in experts when our own knowledge is lacking.
+The soul of the digital humanities is its distinctive way of linking theory and practice. In that spirit, we will tackle these questions not only with theoretically and historically informed arguments, but also with "praxis" experiments that allow students to explore new methodologies, engage new interfaces and platforms, and ask new questions (or, better, think about old questions in new ways). To put things more plainly, we will make things together: maps, data visualizations, and text analyses. These projects will be, by necessity, playful in spirit and "quick and dirty" rather than slick and ready for public consumption. As such, they will prepare students for future work in DH that often requires us to try new approaches and work collaboratively to pull in experts in areas where we lack knowledge and experience.
 
-Though no previous technical skills are required, students will be asked to experiment in introductory ways with DH tools and methods as a way of concretizing some of our readings and discussions. Students will be expected to participate actively in class discussions and online postings (including on our course blog) and to undertake a final project that can be either a conventional seminar paper or a proposal for a digital project. Students completing the course will gain broad knowledge about and understanding of the emerging role of the digital humanities across several academic disciplines and will begin to learn some of the fundamental skills used often in digital humanities projects.
+In terms of expectations and requirements, no technical expertise is assumed, but students should be prepared to dive in and try new things. Students will also be expected to participate actively in class discussions and online postings (including on our course blog) and to undertake a final project that can be either a conventional seminar paper or a proposal for a digital project. Students completing the course will gain broad knowledge about and understanding of the emerging role of the digital humanities across several academic disciplines and will begin to learn some of the fundamental skills used often in digital humanities projects.
 
 Note: this course is part of an innovative "Digital Praxis Seminar," a two-semester long introduction to digital tools and methods that will be open to all students in the Graduate Center. The goal of the course is to introduce graduate students to various ways in which they can incorporate digital research into their work.
 
@@ -51,12 +51,12 @@ Students in the course should complete the following work during the semester:
 * Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
 ### Blogging (7 posts)
-* Students are responsible for writing **seven blog posts** on our shared course blog. If possible, please post your writing by the end of day on **Wednesday** so that others have time to read your work before class.
-	* one post during the second week of the class;
-	* two short responses to our weekly readings or in-class discussions. Post your thoughts, reactions, questions, responses;
-	* one post about a workshop you have attended, with the goal of helping other students understand what they may have missed and/or what you found valuable about it;
-	* two posts about your praxis assignments;
-	* one post about your final project.
+* Students are responsible for writing **seven blog posts** on our shared course blog. If possible, please post your writing by the end of day on **Wednesday** so that others have time to read your work before class. Here's the breakdown of required writing assignments on the blog:
+	* one post during the second week of the class
+	* two short responses to our weekly readings or in-class discussions. Post your thoughts, reactions, questions, responses
+	* one post about a workshop you have attended, with the goal of helping other students understand what they may have missed and/or what you found valuable about it
+	* two posts about your praxis assignments
+	* one post about your final project
 * Students who are not writing blog posts on a given week should comment on and respond to the posts of other students.
 
 ### Workshops (3 workshops)
@@ -69,7 +69,7 @@ During the semester, I will ask you to complete two praxis assignments. These ex
 
 ### Assignment options:
 
-1. Mapping Assignment (Due Date: 10/1 -- required of all students)
+1. Mapping Assignment (Due Date: 10/7 -- required of all students)
 
 
 Create a map using one of the tools described in “Finding the Right Tools for Mapping.” You can create any map you’d like; I just want you to try to use one of these pieces of mapping software. Should you feel so inspired, I invite you to explore one of the following options:
@@ -81,28 +81,28 @@ Create a map using one of the tools described in “Finding the Right Tools for 
 
 Please create a blog post describing your experiences.
 
-Choose either:
+Choose **either**:
 
-2. Visualization Assignment (Due Date 10/7)
+2. Visualization Assignment (Due Date 10/21)
 
-Create a data visualization using one of the tools described in "Digital Humanities Tools: Data Visualization Tools" (I suggest starting with Tableau Public or Palladio, especially if you are new to data vis). As with the mapping praxis assignment, you may create any type of visualization you’d like; I just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, please avoid a geospatial visualization.
+Create a data visualization using one of the tools described in ["Digital Humanities Tools: Data Visualization Tools"](https://libguides.library.arizona.edu/dighumantools/dataviz) (I suggest starting with [Tableau Public](https://public.tableau.com/en-us/s/) or [Palladio](http://hdlab.stanford.edu/palladio/), especially if you are new to data vis). As with the mapping praxis assignment, you may create any type of visualization you’d like; I just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, please avoid a geospatial visualization.
 
 Please create a blog post describing your experience(s) creating the data visualization and connect your experience(s) with one or two readings from class thus far, particularly from the “Data and Visualization” week.
 
 or
 
-3. Text Analysis Assignment (Due Date 10/28)
+3. Text Analysis Assignment (Due Date 11/4)
 
-* First, read this overview of text-mining. 
-* Second, choose a text or set of texts to explore with Voyant (easiest), Google N-Gram, J-Stor Text Analyzer, Bookworm, MALLET, or another text-mining tool. 
+* First, read [this overview of text-mining](http://fredgibbs.net/courses/etc/getting-started-with-text-mining). 
+* Second, choose a text or set of texts to explore with [Voyant](https://voyant-tools.org/) (easiest), [Google N-Gram](https://books.google.com/ngrams), [J-Stor Text Analyzer](https://www.jstor.org/analyze/), Bookworm, MALLET, or another text-mining tool. 
 * Third, explore! 
 * Fourth, blog about your experiences.
 
 Resources (tool overviews and/or project examples):
 
-https://libguides.wpi.edu/digital_scholarship/text_analysis (note — some links lead to WPI-restricted resources, but you can find open version of most resources named by googling the tool names)
+[https://libguides.wpi.edu/digital_scholarship/text_analysis](https://libguides.wpi.edu/digital_scholarship/text_analysis) (note — some links lead to WPI-restricted resources, but you can find open version of most resources named by googling the tool names)
 
-http://dh.matrix.msu.edu/research/text-mining/
+[http://dh.matrix.msu.edu/research/text-mining/](http://dh.matrix.msu.edu/research/text-mining/)
 
 Final Projects: Students may choose between a) writing a conventional seminar paper related to some aspect of our course readings; or b) crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
 
@@ -113,13 +113,14 @@ Regular participation in discussions across the range of our face-to-face and on
 * Participation and online assignments (40%)
 * Final project (60%)
 
-Accessibility It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential.
+## Accessibility 
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential.
 
-While offices are operating remotely, email Clare Wilson at cwilson1@gc.cuny.edu or visit the SDS website, http://cuny.is/disabilityservices .
+While offices are operating remotely, email Clare Wilson at cwilson1@gc.cuny.edu or visit the SDS website, [http://cuny.is/disabilityservice](http://cuny.is/disabilityservice)s .
 
 ## Accounts
 
-All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
+All students should register for accounts on the following sites: [CUNY Academic Commons](https://commons.gc.cuny.edu/), [Twitter](twitter.com), and [Zotero](zotero.org) (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 

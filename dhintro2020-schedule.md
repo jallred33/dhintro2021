@@ -177,7 +177,6 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Surfacing](http://www.surfacing.in/)
 									
-### Assignment: PRAXIS Visualization assignment due		
 
 
 ## 10/21 - Open Access Publishing / Minimal Computing / Digital Scholarship
@@ -207,7 +206,9 @@ Introductions to each other, to the course syllabus, site, and group
 * [PubPub](https://www.pubpub.org/)
 
 * [Scalar](https://scalar.me/anvc/scalar/)
-																					
+																			
+### Assignment: PRAXIS Visualization assignment due		
+																			
 																												
 ## 10/28 - Text
 
@@ -229,7 +230,6 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Amanda Henrichs, [“Allusions in the Age of the Digital: four ways of looking at a corpus"](https://wwp.northeastern.edu/context/#henrichs.allusions.xml)																							
 
-### Assignment: PRAXIS text mining assignment due	
 
 																												
 ## 11/4 - Pedagogy
@@ -251,7 +251,8 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
 
-  																		
+### Assignment: PRAXIS text mining assignment due	
+																		
 																												
 ## 11/11 - Special Topic: People's Choice (students will collaboratively decide TBA)
 
@@ -277,8 +278,8 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Model student proposals (PDF)
 
+### Assignment: FINAL PROPOSALS DUE Monday 11/29																										
 ## 11/25 - No class 
-### Assignment: FINAL PROPOSALS DUE																										
 																												
 ## 12/2 - Student Presentations	
 

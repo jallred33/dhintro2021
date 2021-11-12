@@ -25,7 +25,7 @@ Introductions to each other, to the course syllabus, site, and group
 - [Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/)
 - [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
 - [Colored Conventions Project](https://coloredconventions.org/)
-- Browse[Reviews in Digital Humanities](https://reviewsindh.pubpub.org/)
+- Browse [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/)
 
 
 ### **Assignment -- blog post (choose one of two prompts):**
@@ -251,6 +251,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 
 ### **Assignment: FINAL PROPOSALS DUE Monday 11/22**
+see [Final Project](https://dh700fa21.commons.gc.cuny.edu/final-project/) page for guidelines
 
 
 ## **11/25 - No class**
